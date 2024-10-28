@@ -19,11 +19,14 @@ matplotlib
 The CNN model consists of the following layers:
 
 Convolutional Layer: Extracts features from images.
+
 MaxPooling: Reduces spatial dimensions and controls overfitting.
+
 Flatten: Converts the 3D feature maps into 1D for dense layers.
+
 Dense Layer: Performs classification with softmax activation for 26 output classes.
-Training and Evaluation
-The model is trained over 5 epochs using categorical cross-entropy as the loss function and Adam optimizer. After training, the model’s accuracy is evaluated on the test set.
+
+Training and Evaluation:The model is trained over 5 epochs using categorical cross-entropy as the loss function and Adam optimizer. After training, the model’s accuracy is evaluated on the test set.
 
 Visualizations
 
