@@ -1,7 +1,7 @@
-Sign Language MNIST Classification
+**Sign Language MNIST Classification
 This project demonstrates a Convolutional Neural Network (CNN) to classify images of American Sign Language letters (A-Z) using the Sign Language MNIST dataset. The model can identify 26 unique classes, representing each letter of the alphabet. The CNN architecture has multiple convolutional layers followed by max pooling, dropout for regularization, and dense layers for classification.
 
-Project Structure
+**Project Structure
 sign_mnist_train.csv: Training dataset of hand gestures representing letters A-Z.
 sign_mnist_test.csv: Testing dataset of hand gestures representing letters A-Z.
 sign_language_mnist.ipynb: Jupyter notebook file containing the code to load data, preprocess it, build and train the CNN model, and evaluate its performance.
