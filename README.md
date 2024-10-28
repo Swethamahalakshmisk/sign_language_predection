@@ -32,4 +32,4 @@ Training and Validation Loss: Plot to show loss reduction over epochs.
 
 Results
 
-The model typically achieves an accuracy of ~XX% on the test set (adjust XX based on your results), indicating the model’s ability to classify sign language gestures.
+The model typically achieves an accuracy of ~0.90% on the test set , indicating the model’s ability to classify sign language gestures.
